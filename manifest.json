@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Headings Highlighter",
+  "version": "1.0.0",
+  "description": "Click to highlight all headings (h1–h6) on the current page.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Toggle heading highlights"
+  }
+}
