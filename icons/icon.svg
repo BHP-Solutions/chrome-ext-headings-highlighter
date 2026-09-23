@@ -8,9 +8,8 @@
   </defs>
   <rect x="4" y="4" width="120" height="120" rx="26" fill="#111"/>
   <!-- H -->
-  <path fill="#00E650" d="M24 28h18v28h28V28h18v76H70V72H42v32H24z"/>
+  <path fill="#00E650" d="M18 36h18v26h26V36h18v74H62V78H36v32H18z"/>
   <!-- Sparkle -->
-  <path fill="url(#gold)" stroke="#111" stroke-width="3" stroke-linejoin="round"
-        d="M100 6 C103 22 106 25 122 28 C106 31 103 34 100 50 C97 34 94 31 78 28 C94 25 97 22 100 6 Z"/>
-  <circle cx="80" cy="12" r="4" fill="#FFD84D"/>
+  <path fill="url(#gold)" stroke="#111" stroke-width="4" stroke-linejoin="round"
+        d="M94 8 C98 28 102 32 122 36 C102 40 98 44 94 64 C90 44 86 40 66 36 C86 32 90 28 94 8 Z"/>
 </svg>
